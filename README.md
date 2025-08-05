@@ -1,5 +1,5 @@
-forumhub
-FórumHub API Uma API RESTful para um fórum online, permitindo aos usuários criar, ler, atualizar e deletar tópicos e respostas, com autenticação JWT e validação de regras de negócio.
+
+ForumHub API Uma API RESTful para um fórum online, permitindo aos usuários criar, ler, atualizar e deletar tópicos e respostas, com autenticação JWT e validação de regras de negócio.
 
 🚀 Tecnologias Utilizadas O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
